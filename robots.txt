@@ -1,4 +1,2 @@
 User-agent: *
-Allow: /
-
-Host: https://lisenbart.games
+Disallow: /
