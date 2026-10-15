@@ -1,0 +1,8 @@
+{
+  "name": "lisenbart-games",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "python3 -m http.server 43221 --bind 0.0.0.0"
+  }
+}
